@@ -49,6 +49,10 @@ Query Router
         Groq Llama3 LLM
                 ↓
        Final Answer + Citations
+
+
+
+       
 🔀 Query Routing Logic
 Question Type	Example	Routed To
 Conceptual	"What is machine learning?"	📄 Documents
